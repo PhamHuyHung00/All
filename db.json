@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server01",
+      "author": "typicode01"
+    },
+    {
+      "title": "Mujson-server000",
+      "author": "Mutypicode000",
+      "id": 2
+    },
+    {
+      "title": "Mujson-server000",
+      "author": "Mutypicode000",
+      "id": 3
+    }
+  ]
+}
